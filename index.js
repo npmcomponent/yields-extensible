@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var inherit = require('inherit');
+var inherit = require('component-inherit');
 
 /**
  * Export `extensible`
